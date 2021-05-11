@@ -1,4 +1,4 @@
-# Breast_Cancer_Detection
+<h1 align="center"> 🛎️ Breast-Cancer-Detection</h1>
 
 #### This is a machine learning project on breast cancer detection using algorithms like KNN and SVM.
 
@@ -20,9 +20,9 @@
   Olvi Mangasarian (mangasarian '@' cs.wisc.edu)
   Received by David W. Aha (aha '@' cs.jhu.edu)</strong>
 </pre>
-<hr>
 
-#### Data Set Information:
+
+#### 🥇 Data Set Information:
 
 Samples arrive periodically as Dr. Wolberg reports his clinical cases. The database therefore reflects this chronological grouping of the data. This grouping information appears immediately below, having been removed from the data itself:
 <pre><strong>
@@ -47,17 +47,17 @@ Group 8: 86 instances (November 1991)
 
 
 Note that the results summarized above in Past Usage refer to a dataset of size 369, while Group 1 has only 367 instances. This is because it originally contained 369 instances; 2 were removed. The following statements summarizes changes to the original Group 1's set of data:
-<pre>
-  - Group 1 : 367 points: 200B 167M (January 1989)
-  - Revised Jan 10, 1991: Replaced zero bare nuclei in 1080185 & 118780
-  - Revised Nov 22,1991: Removed 765878,4,5,9,7,10,10,10,3,8,1 no record
-  - Removed 484201,2,7,8,8,4,3,10,3,4,1 zero epithelial
-  - Changed 0 to 1 in field 6 of sample 1219406
-  - Changed 0 to 1 in field 8 of following sample:<strong>1182404,2,3,1,1,1,2,0,1,1,1</strong>
-</pre>
-<hr>
+<pre><strong>
+- Group 1 : 367 points: 200B 167M (January 1989)
+- Revised Jan 10, 1991: Replaced zero bare nuclei in 1080185 & 118780
+- Revised Nov 22,1991: Removed 765878,4,5,9,7,10,10,10,3,8,1 no record
+- Removed 484201,2,7,8,8,4,3,10,3,4,1 zero epithelial
+- Changed 0 to 1 in field 6 of sample 1219406
+- Changed 0 to 1 in field 8 of following sample:<strong>1182404,2,3,1,1,1,2,0,1,1,1</strong>
+</strong></pre>
 
-#### Attribute Information:
+
+#### 🥇 Attribute Information:
 <pre><strong>
 1.  Sample code number: id number
 2.  Clump Thickness: 1 - 10
